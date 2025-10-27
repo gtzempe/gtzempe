@@ -54,7 +54,7 @@ This project demonstrates my ability to work on both frontend and backend compon
 
 **Coding Factory** - Full-Stack JavaScript Development Bootcamp
 *2024*
-- Intensive 6-month program focused on practical web development skills
+- Intensive 10-month program focused on practical web development skills
 - Hands-on experience with modern JavaScript ecosystems
 - Project-based learning methodology
 
