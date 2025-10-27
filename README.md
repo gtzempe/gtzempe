@@ -74,7 +74,7 @@ This project demonstrates my ability to work on both frontend and backend compon
 ## Connect
 
 - GitHub: [github.com/gtzempe](https://github.com/gtzempe)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/george-tzempelikos-2955b4127)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/george-tzempelikos-2955b4127)
 
 
 ---
