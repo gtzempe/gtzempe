@@ -51,7 +51,6 @@ A functional e-commerce application built from scratch using modern web technolo
 - User registration and login system
 - Product catalog with search functionality
 - Shopping cart with add/remove features
-- Basic admin panel for product management
 - Order processing system
 
 **Technologies Used:**
