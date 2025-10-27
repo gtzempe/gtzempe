@@ -63,11 +63,15 @@ This project demonstrates my ability to work on both frontend and backend compon
 
 ## Collaboration
 
-I'm open to collaborating on interesting projects, particularly:
-- Web applications with social impact
-- Innovative tech solutions
-- Open source contributions
-- Learning-focused initiatives
+I'm seeking collaborations that help strengthen my skills and support my growth as a developer.
+
+**I'm interested in:**
+- Building full-stack features from concept to deployment
+- Working with modern React and Node.js ecosystems
+- Contributing to meaningful web applications
+- Learning through hands-on development
+
+Open to projects where I can apply my current skills while expanding my technical expertise through practical experience.
 
 ## Education
 
