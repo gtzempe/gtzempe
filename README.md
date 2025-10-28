@@ -66,10 +66,12 @@ This project demonstrates my ability to work on both frontend and backend compon
 I'm seeking collaborations that help strengthen my skills and support my growth as a developer.
 
 **I'm interested in:**
-- Building full-stack features from concept to deployment
-- Working with modern React and Node.js ecosystems
-- Contributing to meaningful web applications
+- Junior developer position where I can contribute to real-world projects
 - Learning through hands-on development
+- Mentorship opportunities to accelerate my professional growth
+- Contributing to meaningful web applications
+- Technologies: JavaScript/TypeScript, React, Node.js
+- Building full-stack features from concept to deployment
 
 Open to projects where I can apply my current skills while expanding my technical expertise through practical experience.
 
@@ -80,13 +82,6 @@ Open to projects where I can apply my current skills while expanding my technica
 - Intensive 10-month program focused on practical web development skills
 - Hands-on experience with multiple programming languages and tools
 - Project-based learning methodology
-
-## What I'm Looking For
-
-- Junior developer position where I can contribute to real-world projects
-- Mentorship opportunities to accelerate my professional growth
-- Collaborative team environment
-- Technologies: JavaScript/TypeScript, React, Node.js
 
 ---
 
