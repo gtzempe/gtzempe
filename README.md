@@ -19,23 +19,23 @@ Recent graduate from Coding Factory's intensive full-stack development program, 
 
 ## Technical Skills
 
-**Frontend:**
-- React with TypeScript
-- HTML5, CSS3, TailwindCSS
-- JavaScript (ES6+)
-- Responsive Web Design
+**Frontend Development**
+	•	React & TypeScript – Built interactive, component-based web applications with maintainable code.
+	•	HTML5, CSS3 & TailwindCSS – Crafted responsive, modern, and visually appealing interfaces.
+	•	JavaScript (ES6+) – Implemented dynamic client-side functionality and optimized performance.
+	•	Responsive Web Design – Ensured seamless experience across devices and screen sizes.
 
-**Backend:**
-- Node.js with Express
-- MongoDB
-- REST API Development
-- Basic Authentication & Authorization
+**Backend Development**
+	•	Node.js & Express – Developed scalable server-side applications and REST APIs.
+	•	MongoDB & Mongoose – Designed schemas, managed data persistence, and optimized queries.
+	•	Authentication & Authorization (JWT) – Secured endpoints and managed user sessions.
+	•	REST API Development – Created clean, structured, and well-documented endpoints.
 
-**Tools & Practices:**
-- Git & GitHub
-- npm & Package Management
-- Basic Testing with Jest
-- API Documentation
+**Tools & Practices**
+	•	Git & GitHub – Version control, collaboration workflows, and deployment management.
+	•	npm & Package Management – Managed dependencies and streamlined project setup.
+	•	Testing with Jest – Implemented unit tests for reliability and maintainability.
+	•	API Documentation (Swagger) – Documented endpoints for clarity and team collaboration.
 
 ## Currently Learning
 - **C# .NET** - Expanding my backend development skills
