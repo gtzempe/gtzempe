@@ -10,9 +10,11 @@ Athens, Greece | gtzempe@gmail.com | Available Immediately
 
 ## About Me
 
-Recent Coding Factory (AUEB) graduate with hands-on full-stack development experience. Built and deployed production-ready web applications using modern technologies. Transitioned from retail management, bringing strong problem-solving, teamwork, and customer-focused mindset to software development.
+Recent Coding Factory (AUEB) graduate with hands-on full-stack development experience. Built and deployed production-ready web applications using React, TypeScript, and Node.js. 
 
-Currently converting my MERN stack projects to ASP.NET Core to demonstrate proficiency across multiple technology ecosystems.
+Currently expanding my tech stack with C# and .NET Core while deepening my React expertise. Transitioned from retail management, bringing strong problem-solving, teamwork, and customer-focused mindset to software development.
+
+Passionate about building user-focused applications and eager to contribute to real-world projects.
 
 ---
 
@@ -40,11 +42,11 @@ Node.js, Express, REST APIs, MongoDB, Mongoose ODM, JWT Authentication, API Docu
 Git/GitHub, npm, Vite, Jest Testing, Agile/Scrum, CI/CD
 
 **Currently Learning**  
-C#, ASP.NET Core, .NET Framework
+C# / .NET Core, Advanced React Patterns, Cloud Deployment (AWS/Azure)
 
 ---
 
-## Featured Project
+## Featured Projects:
 
 ### Tech-eShop - Full-Stack E-Commerce Platform
 
@@ -73,12 +75,44 @@ React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS, Jest, Swagger
 
 ---
 
+### Weather Live - Modern Weather Application
+
+**Links:** [Live Demo](https://weather-live-sage.vercel.app) | [GitHub](https://github.com/gtzempe/weather-live) 
+
+Modern React weather application with real-time data, forecasts, and personalized weather tracking.
+
+**What I Built:**
+- Frontend: React 19 + TypeScript with responsive design
+- Data Management: TanStack Query for optimized API calls and caching
+- API Integration: OpenWeather API with geolocation and reverse geocoding
+- UI Components: Radix UI primitives with Tailwind CSS styling
+- Data Visualization: Interactive temperature charts with Recharts
+- Theme Support: Dark/light mode with persistent preferences
+
+**Tech Stack:**  
+React 19, TypeScript, TanStack Query, Tailwind CSS, Recharts, Radix UI, OpenWeather API
+
+**Key Features:**
+- Real-time weather data with detailed metrics
+- 5-day forecast with hourly breakdowns
+- Interactive temperature charts
+- Geolocation support with automatic detection
+- City search with autocomplete
+- Search history tracking
+- Favorites management system
+- Individual city pages with complete weather data
+- Dark/light mode theme toggle
+- Fully responsive across all devices
+
+---
+
 ## What I'm Working On
 
-- Converting Tech-eShop backend to ASP.NET Core
-- Building new projects with React + .NET stack
-- Deepening knowledge of C# and .NET ecosystem
-- Preparing for junior developer roles
+- Building modern web applications with React 19 and TypeScript
+- Learning C# and ASP.NET Core for full-stack versatility  
+- Exploring Next.js and server-side rendering patterns
+
+Open to Frontend, Backend, or Full-Stack roles where I can grow alongside experienced developers.
 
 ---
 
@@ -92,8 +126,6 @@ Junior Full Stack Developer, Frontend Developer, or Backend Developer roles in A
 - Quick learner with strong problem-solving abilities
 - Team collaboration experience from retail management background
 - Passion for building user-focused applications
-
-Interested in FinTech, E-commerce, SaaS, Public Sector Digital Transformation, and Startups.
 
 ---
 
