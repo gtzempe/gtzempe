@@ -4,7 +4,7 @@ Junior Full Stack Developer | MERN Stack | Coding Factory Graduate
 
 Athens, Greece | gtzempe@gmail.com | Available Immediately
 
-[LinkedIn](https://www.linkedin.com/in/george-tzempelikos-2955b4127) • [GitHub](https://github.com/gtzempe) • [Portfolio](https://coding-factory-fe-tech-eshop.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/george-tzempelikos-2955b4127) • [GitHub](https://github.com/gtzempe) 
 
 ---
 
@@ -77,7 +77,7 @@ React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS, Jest, Swagger
 
 ### Weather Live - Modern Weather Application
 
-**Links:** [Live Demo](https://weather-live-sage.vercel.app) | [GitHub](https://github.com/gtzempe/weather-live) 
+**Links:** [Live Demo](https://weather-live-sage.vercel.app) | [GitHub](https://github.com/gtzempe/Weather_Live) 
 
 Modern React weather application with real-time data, forecasts, and personalized weather tracking.
 
