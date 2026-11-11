@@ -1,152 +1,103 @@
+
 # George Tzempelikos
 
-Junior Full Stack Developer | MERN Stack | Coding Factory Graduate
+**Junior Backend Developer | Java • Spring Boot • SQL • REST APIs**
 
-Athens, Greece | gtzempe@gmail.com | Available Immediately
+Athens, Greece | gtzempe@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/george-tzempelikos-2955b4127) • [GitHub](https://github.com/gtzempe) 
+[LinkedIn](https://www.linkedin.com/in/george-tzempelikos-2955b4127) • [GitHub](https://github.com/gtzempe)
 
 ---
 
 ## About Me
 
-Recent Coding Factory (AUEB) graduate with hands-on full-stack development experience. Built and deployed production-ready web applications using React, TypeScript, and Node.js. 
+Coding Factory (AUEB) graduate with hands-on experience in building and deploying web applications and developing REST APIs.
 
-Currently expanding my tech stack with C# and .NET Core while deepening my React expertise. Transitioned from retail management, bringing strong problem-solving, teamwork, and customer-focused mindset to software development.
+Currently focusing on Java backend development, expanding my knowledge of Spring Boot, Spring Data JPA, Hibernate, and relational databases.
 
-Passionate about building user-focused applications and eager to contribute to real-world projects.
+Bringing 6 years of professional experience in team leadership, problem-solving, collaboration, and daily operations. Motivated to build reliable software solutions and grow as part of a software development team.
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" width="36" height="36" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" width="36" height="36" /></a>
-</p>
+**Backend Development**
 
-**Frontend**  
-React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Context API, React Router, Responsive Design
+Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs, Node.js, Express.js
 
-**Backend**  
-Node.js, Express, REST APIs, MongoDB, Mongoose ODM, JWT Authentication, API Documentation (Swagger)
+**Databases**
 
-**Tools & Practices**  
-Git/GitHub, npm, Vite, Jest Testing, Agile/Scrum, CI/CD
+SQL, MySQL, PostgreSQL, MongoDB
 
-**Currently Learning**  
-C# / .NET Core, Advanced React Patterns, Cloud Deployment (AWS/Azure)
+**Frontend Development**
+
+React, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS
+
+**Development Tools & Practices**
+
+Git, GitHub, Maven, Postman, Swagger / OpenAPI, Jest, JUnit, Agile/Scrum
 
 ---
 
-## Featured Projects:
+## Featured Projects
 
-### Tech-eShop - Full-Stack E-Commerce Platform
+### Tech-eShop – Full-Stack E-Commerce Platform
 
-**Links:** [Live Demo](https://coding-factory-fe-tech-eshop.vercel.app) | [GitHub](https://github.com/gtzempe/CODING-FACTORY-FE-TECH-ESHOP) | [API Docs](https://coding-factory-fe-tech-eshop.onrender.com/api-docs/)
+**Links:** [Live Demo](https://coding-factory-fe-tech-eshop.vercel.app/) | [GitHub](https://github.com/gtzempe/CODING-FACTORY-FE-TECH-ESHOP) | [API Documentation](https://coding-factory-fe-tech-eshop.onrender.com/api-docs/)
 
-Production MERN stack e-commerce platform with complete authentication, admin dashboard, and order processing system.
+Full-stack e-commerce application featuring user authentication, role-based access control, product management, and order processing.
 
-**What I Built:**
-- Frontend: React 18 + TypeScript with responsive design
-- Backend: Node.js/Express with 15+ documented REST API endpoints
-- Auth: JWT authentication with role-based access control (Admin/Editor/Reader)
-- Database: MongoDB with optimized schemas and indexes
-- Testing: 80%+ Jest test coverage
-- Deployment: Vercel (Frontend), Render (Backend), MongoDB Atlas (Database)
+**Implementation:**
+- Developed a responsive frontend using React 18, TypeScript, Context API, and TailwindCSS.
+- Built a Node.js/Express backend with 15+ REST API endpoints.
+- Implemented JWT authentication and role-based access control (Admin/Editor/Reader).
+- Designed MongoDB schemas and implemented database operations.
+- Wrote automated tests using Jest, achieving 80%+ test coverage.
+- Deployed the application using Vercel, Render, and MongoDB Atlas.
 
-**Tech Stack:**  
-React, TypeScript, Node.js, Express, MongoDB, JWT, TailwindCSS, Jest, Swagger
+**Tech Stack:** React • TypeScript • Node.js • Express • MongoDB • JWT • TailwindCSS • Jest • Swagger
 
-**Key Features:**
-- User registration/login with secure authentication
-- Product catalog with search and filtering
-- Shopping cart with real-time updates
-- Admin dashboard with full CRUD operations
-- Order management system
-- RESTful API with comprehensive documentation
+### Weather Live – Weather Application
 
----
+**Links:** [Live Demo](https://weather-live-sage.vercel.app) | [GitHub](https://github.com/gtzempe/Weather_Live)
 
-### Weather Live - Modern Weather Application
+A responsive weather application providing real-time weather information, forecasts, and location-based search.
 
-**Links:** [Live Demo](https://weather-live-sage.vercel.app) | [GitHub](https://github.com/gtzempe/Weather_Live) 
+**Implementation:**
+- Developed the application using React 19 and TypeScript.
+- Integrated OpenWeather API with geolocation and reverse geocoding.
+- Used TanStack Query for API data fetching and caching.
+- Implemented interactive temperature charts using Recharts.
+- Added city search, favorites, search history, and dark/light theme support.
 
-Modern React weather application with real-time data, forecasts, and personalized weather tracking.
-
-**What I Built:**
-- Frontend: React 19 + TypeScript with responsive design
-- Data Management: TanStack Query for optimized API calls and caching
-- API Integration: OpenWeather API with geolocation and reverse geocoding
-- UI Components: Radix UI primitives with Tailwind CSS styling
-- Data Visualization: Interactive temperature charts with Recharts
-- Theme Support: Dark/light mode with persistent preferences
-
-**Tech Stack:**  
-React 19, TypeScript, TanStack Query, Tailwind CSS, Recharts, Radix UI, OpenWeather API
-
-**Key Features:**
-- Real-time weather data with detailed metrics
-- 5-day forecast with hourly breakdowns
-- Interactive temperature charts
-- Geolocation support with automatic detection
-- City search with autocomplete
-- Search history tracking
-- Favorites management system
-- Individual city pages with complete weather data
-- Dark/light mode theme toggle
-- Fully responsive across all devices
+**Tech Stack:** React • TypeScript • TanStack Query • TailwindCSS • Recharts • Radix UI • OpenWeather API
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-- Building modern web applications with React 19 and TypeScript
-- Learning C# and ASP.NET Core for full-stack versatility  
-- Exploring Next.js and server-side rendering patterns
-
-Open to Frontend, Backend, or Full-Stack roles where I can grow alongside experienced developers.
-
----
-
-## Looking For
-
-Junior Full Stack Developer, Frontend Developer, or Backend Developer roles in Athens (hybrid/on-site) or remote.
-
-**What I bring:**
-- Production-ready full-stack development skills
-- Clean, tested, and well-documented code
-- Quick learner with strong problem-solving abilities
-- Team collaboration experience from retail management background
-- Passion for building user-focused applications
+- Strengthening Java programming skills.
+- Developing backend applications with Spring Boot.
+- Learning Spring Data JPA and Hibernate.
+- Working with relational databases and SQL.
+- Applying software design principles, testing, and REST API best practices.
 
 ---
 
 ## Education
 
-**Athens University of Economics & Business (AUEB)**  
-Coding Factory - Full Stack Web Development Certificate | 2024-2025
+**Athens University of Economics and Business (AUEB)**
+
+Coding Factory – Full Stack Web Development Certificate | 2024–2025
 
 Intensive 9-month program (600+ hours) covering:
-- Languages: JavaScript, TypeScript, Java, C#, Python, SQL
-- Frontend: React, Angular, HTML5, CSS3
-- Backend: Node.js, Express, ASP.NET Core, REST APIs
-- Databases: MongoDB, SQL Server, PostgreSQL
-- Practices: Agile/Scrum, Testing, Design Patterns, CI/CD
 
-**Technological Educational Institute of Patras**  
-Electrical Engineering - Building Installations | 2006
+- **Programming:** Java, JavaScript, TypeScript, Python, SQL
+- **Backend:** Spring Boot, Hibernate, Node.js, Express, REST APIs
+- **Frontend:** React, Angular, HTML5, CSS3
+- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
+- **Practices:** Object-Oriented Programming, Design Patterns, Agile/Scrum, Testing, CI/CD
 
----
+**Technological Educational Institute of Patras**
 
-## Contact
-
-- Email: gtzempe@gmail.com
-- LinkedIn: [George Tzempelikos](https://www.linkedin.com/in/george-tzempelikos-2955b4127)
+Electrical Engineering – Building Installations | 2003–2006
